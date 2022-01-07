@@ -1,0 +1,17 @@
+
+/* banner part style */
+.banner-parent{
+    background: #FFFBF0;
+}
+.banner-content span{
+    color: #FABE4C;
+}
+.banner-content h1{
+    color: #434562;
+}
+.cus_btn button{
+    background: #A4BC46;
+    padding: 10px 30px;
+    color: #fff;
+    border-radius: 10px;
+}
